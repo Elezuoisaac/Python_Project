@@ -1,4 +1,4 @@
---The following contains guides to apprehend the culprit.
+--The following contains guides to apprehend the culprit of a murder case.
 
 --select all murders from the crime_scene_report
 select *
